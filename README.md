@@ -19,3 +19,6 @@ Run `npm test` (Node 20+). Deploy via a separate Vercel project linked to this r
 Documentation:
 https://docs.gusto.com/embedded-payroll/reference/get-v1-companies-company_id-payrolls
 https://docs.gusto.com/embedded-payroll/reference/post-payrolls-payroll_uuid-reports-general_ledger
+
+## Deployment trigger
+The source repository was connected to its separate Vercel project after the initial files were uploaded. This documentation commit triggers a new build from the main branch.
